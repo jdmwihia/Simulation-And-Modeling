@@ -11,7 +11,7 @@ The first project, `diceRoller.ipynb`, simulates rolling dice multiple times, ca
 ## Repository Structure
 ```bash
 Simulation & Modeling/
-├── Sim-venv/ # Python virtual environment for the projects
+├── .gitignore # ignores project virtual env
 ├── diceRoller.ipynb # First project: dice rolling simulator
 ├── requirements.txt # Python dependencies used across projects
 └── README.md # This file
@@ -28,7 +28,7 @@ git clone https://github.com/jdmwihia/Simulation-And-Modeling.git
 
 2. **Navigate to the project folder**:
 ```bash
-cd "Simulation & Modeling"
+cd "Simulation-And-Modeling"
 ```
 
 3. **Create and activate the virtual environment**:
