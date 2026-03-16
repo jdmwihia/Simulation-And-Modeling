@@ -4,7 +4,7 @@
 This repository contains all **Simulation & Modeling projects** for the semester.  
 Each project applies simulation techniques to explore real-world scenarios, analyze outcomes, and visualize results using Python.
 
-The first project, `diceRoller.ipynb`, simulates rolling dice multiple times, calculates probabilities, and visualizes results with plots. Future projects will expand on simulation concepts, probability analysis, and modeling scenarios.
+The first project, `diceRoller.ipynb`, simulates rolling dice multiple times, calculates probabilities, and displays results in a table. Future projects will expand on simulation concepts, probability analysis, and modeling scenarios.
 
 ---
 
