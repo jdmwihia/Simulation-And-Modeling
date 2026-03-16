@@ -10,7 +10,7 @@ The first project, `diceRoller.ipynb`, simulates rolling dice multiple times, ca
 
 ## Repository Structure
 ```bash
-Simulation & Modeling/
+Simulation-And-Modeling/
 ├── .gitignore # ignores project virtual env
 ├── diceRoller.ipynb # First project: dice rolling simulator
 ├── requirements.txt # Python dependencies used across projects
